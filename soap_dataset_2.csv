@@ -1,0 +1,101 @@
+patient_id,soap,expected_codes,lang
+1,"Pasienten presenterer med akutt diare og oppkast. Bekreftet kolera forårsaket av Vibrio cholerae 01, biovar cholerae.",A000,NO
+2,"Pasienten har hatt kraftig diaré og feber. Prøver bekrefter kolera forårsaket av Vibrio cholerae 01, biovar eltor.",A001,NO
+3,"Pasienten har vannaktig diaré og tegn på dehydrering. Diagnostisert med uspesifisert kolera.",A009,NO
+4,"Pasienten presenterer med høy feber, magesmerter og utslett. Blodkultur bekrefter tyfoidfeber.",A010,NO
+5,"Feber, svakhet og diaré i en uke. Påvist paratyfoidfeber A.",A011,NO
+6,"Feber og magesmerter. Blodprøve positiv for paratyfoidfeber B.",A012,NO
+7,"Feber, diaré og kvalme. Test bekrefter paratyfoidfeber C.",A013,NO
+8,"Vedvarende feber og mageplager. Påvist uspesifisert paratyfoidfeber.",A014,NO
+9,"Kraftig diaré og dehydrering. Diagnostisert med Shigellose som skyldes Shigella dysenteriae.",A030,NO
+10,"Pasienten med blodig diaré og feber. Test bekrefter Shigella flexneri.",A031,NO
+11,"Vannaktig diaré og magesmerter. Påvist Shigella boydii.",A032,NO
+12,"Feber og magesmerter. Bekreftet Shigella sonnei.",A033,NO
+13,"Langvarig diaré etter reise. Bekreftet uspesifisert Shigellose.",A038,NO
+14,"Pasienten har alvorlig gastroenteritt etter inntak av forurenset mat. Påvist Salmonella typhi.",A020,NO
+15,"Feber, diaré og utslett. Test viser Salmonella paratyphi.",A021,NO
+16,"Akutt mageinfeksjon forårsaket av Salmonella enteritidis.",A022,NO
+17,"Kraftige magesmerter og feber. Påvist Salmonella typhimurium.",A023,NO
+18,"Mageplager og feber. Bekreftet annen Salmonella-infeksjon.",A024,NO
+19,"Magesmerter og diaré. Test bekrefter uspesifisert salmonellose.",A029,NO
+20,"Feber, hoste og vekttap. Bekreftet lungetuberkulose med positiv bakteriologi.",A150,NO
+21,"Langvarig hoste og nattesvette. Påvist lungetuberkulose uten påvist bakterie.",A160,NO
+22,"Vedvarende hoste og pustevansker. Diagnostisert annen lungetuberkulose.",A170,NO
+23,"Pasienten med nattesvette og vekttap. Bekreftet tuberkulose i lymfeknuter.",A180,NO
+24,"Langvarig feber og ryggsmerter. Påvist tuberkulose i ryggsøyle.",A181,NO
+25,"Smerter i mage og feber. Bekreftet tuberkulose i tarm.",A182,NO
+26,"Tuberkuløs infeksjon i hud. Påvist gjennom biopsi.",A183,NO
+27,"Tuberkulose i urinveier. Pasienten med hyppig vannlating og feber.",A184,NO
+28,"Tuberkuløs infeksjon i øye. Synsforstyrrelser og smerte i øyet.",A185,NO
+29,"Tuberkuløs hjernehinnebetennelse. Påvist med spinalvæskeanalyse.",A186,NO
+30,"Tuberkuløs infeksjon i andre organer. Symptomer avhenger av lokalisering.",A187,NO
+31,"Generalisert tuberkulose med spredning til flere organer.",A188,NO
+32,"Uspesifisert tuberkulose med feber og vekttap.",A190,NO
+33,"Akutt hepatitt A med gulsott. Påvist HAV-antistoffer.",B150,NO
+34,"Hepatitt B akutt infeksjon med leverbetennelse.",B160,NO
+35,"Kronisk hepatitt B med levercirrhose.",B180,NO
+36,"Akutt hepatitt C med forhøyede leverenzymer.",B170,NO
+37,"Kronisk hepatitt C med fibrose.",B182,NO
+38,"Hepatitt E infeksjon bekreftet med serologi.",B170,NO
+39,"Influensa forårsaket av identifisert influensavirus.",J100,NO
+40,"Influensa med lungebetennelse forårsaket av influensavirus.",J101,NO
+41,"Sesonginfluensa uten komplikasjoner.",J110,NO
+42,"Koronainfeksjon påvist med PCR-test.",U071,NO
+43,"COVID-19 med alvorlig lungesvikt.",U072,NO
+44,"Pasienten har feber og muskelsmerter. Test positiv for denguefeber.",A900,NO
+45,"Akutt malaria forårsaket av Plasmodium falciparum.",B500,NO
+46,"Malaria forårsaket av Plasmodium vivax.",B510,NO
+47,"Malaria forårsaket av Plasmodium malariae.",B520,NO
+48,"Uspesifisert malaria med feber og frysninger.",B549,NO
+49,"Pasienten har hiv-infeksjon med symptomer.",B240,NO
+50,"Hiv-infeksjon uten symptomer, bekreftet med test.",B200,NO
+51,"Pasienten har hatt vannaktig diaré i to dager etter å ha drukket brønnvann. Mistenkt mageinfeksjon.",A000,NO
+52,"Pasienten opplever mageplager etter reise til utlandet. Mulig vannbåren sykdom.",A001,NO
+53,"Hyppige toalettbesøk og magekramper. Ingen klar diagnose ennå.",A009,NO
+54,"Feber og tretthet etter besøk i tropisk område. Kan være alvorlig infeksjon.",A010,NO
+55,"Langvarig mageplage med noe feber. Mulig matbåren infeksjon.",A011,NO
+56,"Svakhet, kvalme og mageplager etter matforgiftning.",A012,NO
+57,"Feber og mageubehag uten kjent årsak.",A013,NO
+58,"Magesmerter og uvelhet i flere dager.",A014,NO
+59,"Blodig diaré etter ukjent bakterieinfeksjon.",A030,NO
+60,"Akutt mageplage etter inntak av forurenset mat.",A031,NO
+61,"Magesmerter etter inntak av usikker mat.",A032,NO
+62,"Feber og løs avføring uten kjent årsak.",A033,NO
+63,"Langvarig mageplage etter reise. Ingen klar diagnose.",A038,NO
+64,"Magesmerter og feber etter inntak av ukokt mat.",A020,NO
+65,"Feber og mageplager uten kjent årsak.",A021,NO
+66,"Magesmerter etter inntak av dårlig oppbevart mat.",A022,NO
+67,"Langvarige mageproblemer uten klar årsak.",A023,NO
+68,"Uvelhet og mageubehag i flere dager.",A024,NO
+69,"Feber og tretthet uten spesifikk diagnose.",A029,NO
+70,"Langvarig hoste og slapphet. Mulig lungesykdom.",A150,NO
+71,"Vedvarende hoste og nattlige svettetokter.",A160,NO
+72,"Hoste og pustevansker. Ukjent årsak.",A170,NO
+73,"Langvarig feber og hovne lymfeknuter.",A180,NO
+74,"Feber og ryggsmerter over lengre tid.",A181,NO
+75,"Mageplager og feber. Uklart funn.",A182,NO
+76,"Hudforandringer og smerte. Årsak ukjent.",A183,NO
+77,"Smerte ved vannlating og feber.",A184,NO
+78,"Synsforstyrrelser og øyesmerte.",A185,NO
+79,"Hodepine og stiv nakke. Kan være infeksjon.",A186,NO
+80,"Feber og smerter i ulike kroppsdeler.",A187,NO
+81,"Flere ulike plager samtidig. Årsak ikke funnet.",A188,NO
+82,"Langvarig feber og vekttap.",A190,NO
+83,"Gulsott og tretthet. Mulig leverproblem.",B150,NO
+84,"Feber og magesmerter. Ukjent årsak.",B160,NO
+85,"Kronisk tretthet og magesmerter.",B180,NO
+86,"Magesmerter og gulfarging av hud.",B170,NO
+87,"Langvarig leverplage uten klar årsak.",B182,NO
+88,"Magesmerter og feber. Mulig leverinfeksjon.",B170,NO
+89,"Feber, hoste og muskelsmerter.",J100,NO
+90,"Feber og pustevansker. Mulig lungebetennelse.",J101,NO
+91,"Forkjølelseslignende symptomer uten komplikasjoner.",J110,NO
+92,"Feber og tørrhoste. Mulig koronainfeksjon.",U071,NO
+93,"Alvorlig pustevansker etter virusinfeksjon.",U072,NO
+94,"Feber og muskelsmerter etter myggstikk.",A900,NO
+95,"Feber og hodepine etter reise til tropene.",B500,NO
+96,"Feber og frysninger etter myggstikk.",B510,NO
+97,"Magesmerter og feber etter myggstikk.",B520,NO
+98,"Feber og uvelhet etter reise.",B549,NO
+99,"Langvarig tretthet og vekttap.",B240,NO
+100,"Generell uvelhet og feber.",B200,NO

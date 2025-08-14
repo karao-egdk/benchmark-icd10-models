@@ -1,0 +1,101 @@
+patient_id,soap,expected_codes,lang
+1,"Ulykke eller uhell med fremmedlegeme inn i eller gjennom øye, naturlig åpning eller hud i bolig eller boligområde under arbeid i ukjent eller ikke spesifisert næring",W4t0i,NO
+2,"Uhell ved ytre kontakt med giftig dyr, insekt eller plante i friluft, på hav, sjø eller vann under annen idrett, sport eller mosjon",X2n8p,NO
+3,"Transportulykke med fører eller passasjer i tungt kjøretøy på ukjent sted under idrett, sport eller mosjon i utdanning/verneplikt/siviltjeneste",V6nxm,NO
+4,Annen sekundær osteonekrose i ankel eller fot,M8737,NO
+5,"Benaffeksjon ved annen sykdom klassifisert annet sted, i hånd",M9084,NO
+6,Skade på livmor,S376,NO
+7,Spinal stenose i flere lokalisasjoner i ryggsøylen,M4800,NO
+8,"Transportulykke med fører eller passasjer i tungt kjøretøy på skole, høyskole eller i skolegård under arbeid i industri, bergverk, olje eller gass",V6n4a,NO
+9,Akutt bronkitt som skyldes annen spesifisert mikroorganisme,J208,NO
+10,"Annen spesifisert osteomalasi hos voksne, i underarm",M8383,NO
+11,Uklart om skade er påført med hensikt i bolig eller boligområde under arbeid i det militære forsvar,Y1n0f,NO
+12,"Kontroll av normalt svangerskap, uspesifisert om første eller senere svangerskap",Z349,NO
+13,"Ulykke eller uhell med varm væske, gass eller overflate på skole, høyskole eller i skolegård under arbeid i det militære forsvar",X1n4f,NO
+14,Pes calcaneovarus,Q661,NO
+15,"Forgiftning, etsing eller annen påvirkning av giftige substanser som følge av ulykke eller uhell i friluft, på hav, sjø eller vann under annen aktivitet",X4n8r,NO
+16,Uklart om skade er påført med hensikt på ukjent sted under arbeid i politi eller fNOselsvesen,Y1nxg,NO
+17,Annen spesifisert medfødt misdannelse av bryst,Q838,NO
+18,Fører eller passasjer på moped skadd i transportulykke ved annen ulykke på gate eller vei under ukjent aktivitet,V2t2y,NO
+19,Fører eller passasjer på moped skadd i transportulykke i barnehage eller på lekeplass under arbeid i politi eller fNOselsvesen,V2t3g,NO
+20,Urinveisinfeksjon hos nyfødt,P393,NO
+21,"Ulykke eller uhell med fremmedlegeme inn i eller gjennom øye, naturlig åpning eller hud i somatisk eller psykiatrisk sykehus eller helseinstitusjon under utdanning",W4t5j,NO
+22,Forsinket tilheling av brudd i uspesifisert lokalisasjon,M8429,NO
+23,"Slått, truffet, sparket, vridd, bitt, klort eller stukket av person, dyr eller plante i friluft, på hav, sjø eller vann under arbeid i annen næring",W5n8h,NO
+24,Annen spesifisert osteonekrose,M878,NO
+25,Multiinfarktdemens med andre blandede symptomer,F0114,NO
+26,Etseskade som omfatter 70-79% av kroppsoverflate,T327,NO
+27,Åpent sår på uspesifisert kroppsregion,T141,NO
+28,"Overdreven, patologisk søskenrivalisering",F933,NO
+29,"Lokalisert hevelse, oppfylling eller kul på hals",R221,NO
+30,Overdreven NOstelse eller bekymring ved stressituasjoner,R466,NO
+31,Akutt nefrittisk syndrom med diffus mesangiell proliferativ glomerulonefritt,N003,NO
+32,Transportulykke med fører eller passasjer i personbil i somatisk eller psykiatrisk sykehus eller helseinstitusjon under arbeid i politi eller fNOselsvesen,V4n5g,NO
+33,Unormalt histologisk funn i prøve fra åndedrettsorgan eller brysthule,R847,NO
+34,Brannskade av uspesifisert grad på hode eller hals,T200,NO
+35,"Ulykke eller uhell med varm væske, gass eller overflate i somatisk eller psykiatrisk sykehus eller helseinstitusjon under verneplikt, militærtjeneste eller siviltjeneste",X1n5k,NO
+36,Rekonvalesens etter uspesifisert behandling,Z549,NO
+37,Behov for annet spesifisert forebyggende tiltak i forbindelse med smittsom sykdom,Z298,NO
+38,"Villet egenskade på skole, høyskole eller i skolegård",X6n4,NO
+39,Lukket brudd i 2. cervikalvirvel,S1210,NO
+40,Frostskade med vevsnekrose på hals,T341,NO
+41,Annen hjernenervelidelse ved annen sykdom klassifisert annet sted,G538,NO
+42,Artritt i håndledd ved annen infeksjonssykdom eller parasittsykdom klassifisert annet sted,M0183,NO
+43,Uspesifisert seropositiv revmatoid artritt i skulderregionen,M0591,NO
+44,"Fører eller passasjer på sykkel skadd i transportulykke på skole, høyskole eller i skolegård under annen idrett, sport eller mosjon",V1n4p,NO
+45,Fører eller passasjer på moped skadd i transportulykke i somatisk eller psykiatrisk sykehus eller helseinstitusjon i all virksomhet knyttet til olje-/gassutvinning på norsk kontinentalsokkel,V2t5c,NO
+46,Pseudosarkomatøs fibromatose i skulderregionen,M7241,NO
+47,Brannskade som omfatter 90% eller mer av kroppsoverflate,T319,NO
+48,Annen spesifisert muskelsykdom i hånd,M6284,NO
+49,Kontakt med helsetjenesten for etterundersøkelse etter kombinasjonsbehandling for annen tilstand,Z097,NO
+50,Uspesifisert revmatisk hjertesykdom,I099,NO
+51,"Påvirkning fra annen spesifisert faktor ved ulykke eller uhell i friluft, på hav, sjø eller vann under arbeid i bygg og anlegg",X588b,NO
+52,"Transportulykke med fører eller passasjer i varebil, kombibil eller lett lastebil i bolig eller boligområde under arbeid i industri, bergverk, olje eller gass",V5n0a,NO
+53,Uspesifisert karies,K029,NO
+54,"Slått, truffet, sparket, vridd, bitt, klort eller stukket av person, dyr eller plante i friluft, på hav, sjø eller vann under arbeid i bygg og anlegg",W5n8b,NO
+55,"Slag, støt eller sammenstøt med gjenstand på ukjent sted under annen idrett, sport eller mosjon",W2sxp,NO
+56,"Osteitis deformans ved neoplastisk sykdom, i flere lokalisasjoner",M9060,NO
+57,Annen eller uspesifisert prematur depolarisasjon,I494,NO
+58,Psykotisk lidelse med i hovedsak vrangforestilling som skyldes bruk av hallusinogen,F1651,NO
+59,Uspesifisert vedvarende proteinuri,N391,NO
+60,Brudd i annen fotrotsknokkel,S922,NO
+61,"Uhell ved ytre kontakt med giftig dyr, insekt eller plante i bolig eller boligområde under verneplikt, militærtjeneste eller siviltjeneste",X2n0k,NO
+62,"Inflammasjon i øvre luftveier forårsaket av kjemikalier, gass, røyk eller damp, ikke klassifisert annet sted",J682,NO
+63,Dobbelt utløp fra venstre hjertekammer,Q202,NO
+64,Misdannelse i urachus,Q644,NO
+65,Mekanisk kontakt med torner eller skarpe plantedeler mv ved annen ulykke på gate eller vei under ukjent aktivitet,W6n2y,NO
+66,Annen spesifisert ikke-infeksiøs gastroenteritt eller kolitt,K528,NO
+67,Transportulykke med fører eller passasjer i buss i somatisk eller psykiatrisk sykehus eller helseinstitusjon under utdanning,V7n5j,NO
+68,Annen degenerativ lidelse i øyeeple,H443,NO
+69,Brannskade av uspesifisert grad på trunkus,T210,NO
+70,Uspesifisert transportulykke i barnehage eller på lekeplass under arbeid i det militære forsvar,V993f,NO
+71,Melanocyttnevus på leppe,D220,NO
+72,Akutt periodontitt,K052,NO
+73,Fører eller passasjer på sykkel skadd i transportulykke ved annen ulykke på gate eller vei under arbeid med fiske eller fangst,V1n2e,NO
+74,Uspesifisert allergisk rhinitt,J304,NO
+75,Annen hypertrofisk osteoartropati i bekkenregion eller lår,M8945,NO
+76,Annen spesifisert laktoseintoleranse,E738,NO
+77,Fører eller passasjer på moped skadd i transportulykke ved annen ulykke på gate eller vei under annen aktivitet,V2t2r,NO
+78,Transportulykke i luften eller i rommet i barnehage eller på lekeplass under ukjent aktivitet,V9t3y,NO
+79,Brudd i ribben,S223,NO
+80,"Uhell ved ytre kontakt med giftig dyr, insekt eller plante på annet sted under arbeid i det militære forsvar",X2n9f,NO
+81,"Residiverende mellomgulvsbrokk med obstruksjon, uten gangren",K4401,NO
+82,Forsinket forløsning etter spontan eller uspesifisert vannavgang,O756,NO
+83,Osteonekrose som skyldes legemidler i bekkenregion eller lår,M8715,NO
+84,Uspesifisert inkontinens,R32,NO
+85,"Slått, truffet, sparket, vridd, bitt, klort eller stukket av person, dyr eller plante på ukjent sted under arbeid i annen næring",W5nxh,NO
+86,Uspesifisert polydaktyli,Q699,NO
+87,Matforgiftning som skyldes Clostridium perfringens,A052,NO
+88,"Patologisk brudd, ikke klassifisert annet sted, i kneledd eller legg",M8446,NO
+89,Åpne sår som omfatter andre spesifiserte kombinasjoner av kroppsregioner,T018,NO
+90,Revmatisk aortastenose med insuffisiens eller regurgitasjon,I062,NO
+91,Brannskade som omfatter 50-59% av kroppsoverflate,T315,NO
+92,Forkalkning eller forbening av muskel i tilknytning til brannskade i underarm,M6133,NO
+93,Kontakt med helsetjenesten for etterundersøkelse etter kjemoterapi for ondartet svulst,Z082,NO
+94,Transportulykke med fører eller passasjer i annen type kjøretøy på annet sted under arbeid i bygg og anlegg,V8n9b,NO
+95,"AvhNOighetssyndrom som skyldes flyktig løsemiddel, for tiden abstinent, men i beskyttede omgivelser",F1821,NO
+96,"Annen transportulykke i somatisk eller psykiatrisk sykehus eller helseinstitusjon under verneplikt, militærtjeneste eller siviltjeneste",V985k,NO
+97,Unormalt resultat ved funksjonsstudie av skjoldbruskkjertel,R946,NO
+98,Åpent sår i uspesifisert del av hode,S019,NO
+99,"Påvirkning fra annen spesifisert faktor ved ulykke eller uhell i barnehage eller på lekeplass under annen idrett, sport eller mosjon",X583p,NO
+100,Biliært inspissasjonssyndrom,P591,NO

@@ -1,0 +1,101 @@
+patient_id,soap,expected_codes
+1,"Cholera due to Vibrio cholerae 01, biovar cholerae; Severe diarrhea; Vomiting; Dehydration",A000
+2,"Cholera due to Vibrio cholerae 01, biovar eltor; Acute watery diarrhea",A001
+3,"Cholera, unspecified",A009
+4,Typhoid fever; High fever; Abdominal pain; Enlarged spleen,A010
+5,Paratyphoid fever A; Headache,A011
+6,Paratyphoid fever B,A012
+7,Paratyphoid fever C,A013
+8,"Paratyphoid fever, unspecified",A014
+9,Salmonella enteritis; Acute gastroenteritis,A020
+10,Salmonella sepsis; Chills; General malaise,A021
+11,Localized Salmonella infection in hip joint; Localized pain in right hip,A022
+12,Other specified Salmonella infections,A028
+13,"Salmonella infection, unspecified",A029
+14,Shigellosis due to Shigella dysenteriae; Bloody diarrhea,A030
+15,Shigellosis due to Shigella flexneri,A031
+16,Shigellosis due to Shigella boydii,A032
+17,Shigellosis due to Shigella sonnei; Cramping abdominal pain,A033
+18,Other shigellosis; Abdominal cramps,A038
+19,"Shigellosis, unspecified",A039
+20,Enteropathogenic Escherichia coli infection; Watery diarrhea and vomiting for two days,A040
+21,Enterotoxigenic Escherichia coli infection,A041
+22,Enteroinvasive Escherichia coli infection,A042
+23,Enterohemorrhagic Escherichia coli infection,A043
+24,Other intestinal Escherichia coli infections; Prolonged diarrhea,A044
+25,Campylobacter enteritis,A045
+26,Yersinia enterocolitica enteritis; Nausea,A046
+27,Enterocolitis due to Clostridium difficile,A047
+28,Other specified bacterial intestinal infections,A048
+29,"Bacterial intestinal infection, unspecified",A049
+30,Staphylococcal food poisoning,A050
+31,Botulism; Acute neurological failure; Blurred vision; Swallowing problems,A051
+32,Foodborne Clostridium perfringens intoxication,A052
+33,Foodborne Vibrio parahaemolyticus intoxication,A053
+34,Foodborne Bacillus cereus intoxication,A054
+35,Other specified bacterial foodborne intoxications,A058
+36,"Bacterial foodborne intoxication, unspecified",A059
+37,Acute amoebic dysentery,A060
+38,Chronic intestinal amoebiasis; Intermittent abdominal pain; Loose stools over several months,A061
+39,Amoebic nondysenteric colitis,A062
+40,Amoeboma of intestine,A063
+41,Amoebic liver abscess; Right upper quadrant pain; Elevated liver enzymes,A064
+42,Amoebic lung abscess; Chest pain; Cough,A065
+43,Amoebic brain abscess; Confusion; Focal neurological deficits,A066
+44,Cutaneous amoebiasis,A067
+45,Other specified amoebic infections,A068
+46,"Amoebiasis, unspecified",A069
+47,Balantidiasis,A070
+48,Giardiasis [lambliasis]; Weight loss,A071
+49,Cryptosporidiosis; Persistent watery diarrhea,A072
+50,Isosporiasis; Chronic diarrhea and malabsorption,A073
+51,Other specified protozoal intestinal diseases,A078
+52,"Protozoal intestinal disease, unspecified",A079
+53,Rotaviral enteritis,A080
+54,Acute gastroenteropathy due to Norwalk agent,A081
+55,Adenoviral enteritis,A082
+56,Other viral enteritis,A083
+57,"Viral intestinal infection, unspecified",A084
+58,Other specified intestinal infections,A085
+59,"Infectious gastroenteritis and colitis, unspecified",A090
+60,Gastroenteritis and colitis of noninfectious origin,A099
+61,"Pulmonary tuberculosis, confirmed by sputum microscopy; Night sweats for several weeks",A150
+62,"Pulmonary tuberculosis, confirmed by culture only",A151
+63,"Pulmonary tuberculosis, confirmed histologically",A152
+64,"Pulmonary tuberculosis, confirmed by unspecified means",A153
+65,"Tuberculosis of intrathoracic lymph nodes, confirmed",A154
+66,"Tuberculosis of larynx, trachea and bronchus, confirmed; Hoarseness; Sore throat",A155
+67,"Tuberculous pleurisy, confirmed; Shortness of breath",A156
+68,"Primary respiratory tuberculosis, confirmed",A157
+69,"Other respiratory tuberculosis, confirmed",A158
+70,"Respiratory tuberculosis unspecified, confirmed",A159
+71,"Pulmonary tuberculosis, negative bacteriological and histological exam",A160
+72,"Pulmonary tuberculosis, no bacteriological or histological exam done",A161
+73,"Pulmonary tuberculosis, without mention of bacteriological or histological confirmation",A162
+74,"Tuberculosis of intrathoracic lymph nodes, without mention of confirmation",A163
+75,"Tuberculosis of larynx, trachea and bronchus, without mention of confirmation",A164
+76,"Tuberculous pleurisy, without mention of confirmation",A165
+77,"Primary respiratory tuberculosis, without mention of confirmation",A167
+78,"Other respiratory tuberculosis, without mention of confirmation",A168
+79,"Respiratory tuberculosis unspecified, without mention of confirmation",A169
+80,Tuberculous meningitis; Neck stiffness,A170
+81,Meningeal tuberculoma,A171
+82,Other tuberculosis of nervous system,A178
+83,"Tuberculosis of nervous system, unspecified; Cognitive decline",A179
+84,Tuberculosis of bones and joints; Limping gait; Back pain,A180
+85,Tuberculosis of genitourinary system; Dysuria; Hematuria; Flank pain,A181
+86,Tuberculous peripheral lymphadenopathy,A182
+87,"Tuberculosis of intestines, peritoneum and mesenteric glands; Ascites",A183
+88,Tuberculosis of skin and subcutaneous tissue,A184
+89,Tuberculosis of eye; Gradual vision loss,A185
+90,Tuberculosis of ear; Chronic ear discharge; Hearing loss,A186
+91,Tuberculosis of adrenal glands; Addison's disease,A187
+92,Tuberculosis of other specified organs; Renal failure,A188
+93,Acute miliary tuberculosis of a single specified site; Marked malaise,A190
+94,Acute miliary tuberculosis of multiple sites,A191
+95,"Acute miliary tuberculosis, unspecified",A192
+96,Other miliary tuberculosis,A198
+97,"Miliary tuberculosis, unspecified",A199
+98,Bubonic plague,A200
+99,Cellulocutaneous plague,A201
+100,Pneumonic plague,A202

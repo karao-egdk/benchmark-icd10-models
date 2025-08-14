@@ -25,7 +25,7 @@ def load_eval_data(filepath):
         eval_list.append({
             "soap": row["soap"],
             "expected": expected,
-            "lang": row["lang"]
+            "lang": row["lang"] if "lang" in row and pd.notna(row["lang"]) else "ENG"
         })
     return eval_list
 
@@ -81,13 +81,13 @@ def benchmark_model(model_name, diag_codes, diag_descs, eval_data):
 
 def main():
     diag_codes_file = "icd10_norway.xlsx"
-    eval_data_file = "soap_eval_data.csv"
+    eval_data_file = "gemini_refactor_soap.csv"
 
     models = [
         "NbAiLab/nb-sbert-base",
         "sentence-transformers/all-MiniLM-L6-v2",
-        "abhinand/MedEmbed-large-v0.1",
-        "vesteinn/ScandiBERT"
+        # "abhinand/MedEmbed-large-v0.1",
+        # "vesteinn/ScandiBERT"
     ]
 
     print("Loading ICD-10 Norway diagnosis codes...")

@@ -1,0 +1,101 @@
+patient_id,soap,expected_codes,lang
+1,"Pasient innlagt med alvorlig diaré, oppkast og dehydrering. Nylig returnert fra reise i Sørøst-Asia. Laboratorieprøver bekrefter Vibrio cholerae 01, biovar cholerae. Behandling med væske og elektrolytter igangsatt.",A000,NO
+2,"Mann, 45 år, med akutt vannaktig diaré og kraftig dehydrering. Laboratoriefunn bekrefter tilstedeværelse av Vibrio cholerae 01, biovar eltor. Pasienten har nylig returnert fra område med kjent kolerautbrudd.",A001,NO
+3,"Kvinne med alvorlig diaré og oppkast. Kliniske funn tyder på kolera, men spesifikk stamme er ikke identifisert. Symptomatisk behandling igangsatt mens vi venter på endelige laboratorieresultater.",A009,NO
+4,"Mann, 32 år, med høy feber, magesmerter og forstørret milt. Blodprøver viser Salmonella typhi. Pasienten har nylig vært i Pakistan. Behandling med antibiotika påbegynt.",A010,NO
+5,"Kvinne med feber, hodepine og magesmerter i tre dager. Bloddyrkning positiv for paratyfoidfeber A. Pasienten har nylig returnert fra India. Ciprofloxacin forskrevet.",A011,NO
+6,"Gutt, 12 år, med feber, magesmerter og diaré. Laboratorietester bekrefter paratyfoidfeber B. Sykehistorie inkluderer nylig reise til endemisk område. Intravenøs antibiotika startet.",A012,NO
+7,"Eldre kvinne med høy feber og abdominale symptomer. Mikrobiologiske prøver bekrefter paratyfoidfeber C. Innlagt for væskebehandling og antibiotika.",A013,NO
+8,"Mann med feber og magesmerter. Klinisk mistenkt paratyfoid, men spesifikk type ikke identifisert. Behandling igangsatt basert på kliniske funn.",A014,NO
+9,"Kvinne, 28 år, med akutt gastroenteritt. Avføringsprøve viser Salmonella enterica. Moderate symptomer med diaré og magesmerter. Behandles poliklinisk med rehydrering.",A020,NO
+10,"Mann med høy feber, frysninger og generell sykdomsfølelse. Blodkultur positiv for Salmonella med systemisk infeksjon. Innlagt for intravenøs antibiotikabehandling.",A021,NO
+11,"Eldre pasient med lokaliserte smerter i høyre hofte. Røntgen og aspirasjonsprøve bekrefter Salmonella-infeksjon i leddet. Kirurgisk drenasje planlagt.",A022,NO
+12,"Pasient med feber og abdominalsmerter. Prøver bekrefter salmonellainfeksjon, men av annen type enn vanlige gastrointestinale varianter. Undersøker for underliggende immunsvikt.",A028,NO
+13,"Ung mann med diaré og magesmerter. Klinisk bilde tyder på salmonellainfeksjon, men spesifikk art er ikke identifisert. Behandles symptomatisk mens vi venter på prøvesvar.",A029,NO
+14,"Barn, 7 år, med blodig diaré og kraftige magesmerter. Avføringsprøver bekrefter Shigella dysenteriae. Innlagt for væskebehandling og overvåkning.",A030,NO
+15,"Kvinne med akutt diare, feber og magesmerter. Laboratorieprøver positive for Shigella flexneri. Antibiotikabehandling påbegynt etter resistensbestemmelse.",A031,NO
+16,"Mann, 52 år, med magesmerter og blodig avføring. Mikrobiologisk undersøkelse viser Shigella boydii. Reisehistorie til Sør-Asia. Påbegynt behandling med trimetoprim-sulfametoksazol.",A032,NO
+17,"Pasient med moderat diaré og krampeaktige magesmerter. Avføringsprøve positiv for Shigella sonnei. Symptomatisk behandling og hydrering anbefalt.",A033,NO
+18,"Kvinne med diaré, feber og abdominale kramper. Prøver bekrefter shigellose av mindre vanlig type. Støttebehandling og antibiotika forskrevet.",A038,NO
+19,"Ung voksen med akutt diaré. Kliniske symptomer tyder på shigellose, men spesifikk bakterietype ikke identifisert. Væskebehandling og observasjon.",A039,NO
+20,"Småbarn med vandig diaré og oppkast i to dager. Avføringsprøve bekrefter enteropatogen E. coli. Fokus på væskebalanse og elektrolyttkorrigering.",A040,NO
+21,"Turist med akutt reisediare. Prøver positive for enterotoksigen E. coli. Moderat dehydrert ved undersøkelse. Oral rehydrering og loperamid anbefalt.",A041,NO
+22,"Pasient med feber og blodig diaré. Mikrobiologisk undersøkelse påviser enteroinvasiv E. coli. Innlagt for væskebehandling og antibiotika.",A042,NO
+23,"Barn, 5 år, med alvorlig blodig diaré og abdominale smerter. Avføringsprøve bekrefter enterohemoragisk E. coli (EHEC). Nøye overvåking av nyrefunksjon igangsatt.",A043,NO
+24,"Pasient med langvarig diaré og magesmerter. Identifisert uvanlig E. coli-stamme som årsak. Behandling tilpasset resistensmønster.",A044,NO
+25,"Mann med akutt magesyke etter grillmåltid. Mikrobiologi bekrefter Campylobacter-enteritt. Symptomer inkluderer diaré, feber og magesmerter.",A045,NO
+26,"Kvinne, 34 år, med abdominalsmerter, kvalme og diaré i fem dager. Avføringsprøve viser Yersinia enterocolitica. Behandles med ciprofloxacin.",A046,NO
+27,"Eldre pasient nylig utskrevet fra sykehus med antibiotika-assosiert diaré. Prøver positive for Clostridium difficile. Behandling med vancomycin startet.",A047,NO
+28,"Pasient med alvorlig tarminfeksjon etter utenlandsreise. Identifisert sjelden bakteriell patogen. Spesialisert antibiotikaregime iverksatt.",A048,NO
+29,"Person med diaré og magesmerter. Klinisk bilde tyder på bakteriell infeksjon, men spesifikk agens ikke identifisert. Symptomatisk behandling.",A049,NO
+30,"Familie med matforgiftningssymptomer etter restaurantbesøk. Prøver viser stafylokokktoksiner. Symptomer inkluderer kvalme, oppkast og magesmerter.",A050,NO
+31,"Pasient med akutt nevrologisk svikt, tåkesyn og svelgproblemer. Mistenkt botulisme basert på kliniske funn og mathistorie. Overført til intensivavdeling.",A051,NO
+32,"Gruppe pasienter med akutte gastrointestinale symptomer etter festmåltid. Matprøver positive for Clostridium perfringens. Symptomatisk behandling.",A052,NO
+33,"Person med kraftig magesyke etter sjømatmåltid. Diagnostisert med matforgiftning forårsaket av Vibrio parahaemolyticus. Rehydrering og overvåking.",A053,NO
+34,"Pasient med kvalme, oppkast og diaré få timer etter å ha spist risrett. Prøver viser Bacillus cereus-toksiner. Kortvarig forløp med god prognose.",A054,NO
+35,"Famile med akutt oppkast og magesmerter etter måltid. Laboratorietester bekrefter uvanlig bakteriell matforgiftning. Symptomatisk behandling.",A058,NO
+36,"Pasient med plutselig innsettende oppkast og diaré. Klinisk bilde tyder på bakteriell matforgiftning, men spesifikk årsak ikke identifisert.",A059,NO
+37,"Mann med blodig diaré, feber og abdominale smerter i over en uke. Mikroskopi og dyrkning bekrefter akutt amøbedysenteri. Behandling med metronidazol startet.",A060,NO
+38,"Pasient med intermitterende magesmerter og løs avføring over flere måneder. Parasittologisk undersøkelse viser kronisk amøbeinfeksjon i tarmkanalen. Langvarig behandlingsplan utarbeidet.",A061,NO
+39,"Kvinne med mild til moderat koloninfeksjon. Prøver bekrefter amøbekolitt uten dysenteri. Behandling med paramomycin påbegynt.",A062,NO
+40,"CT abdomen viser karakteristisk lesjon i tarmveggen. Biopsi bekrefter amøbom i tarmkanalen. Planlegger kombinasjonsbehandling med medikamenter og kirurgi.",A063,NO
+41,"Pasient med høy feber, høyre øvre kvadrant-smerte og forhøyede leverenzymer. Ultralyd viser abscess i lever. Aspirasjonsprøve bekrefter amøbeabscess.",A064,NO
+42,"Mann med feber, brystsmerter og hoste. CT thorax viser abscess i høyre lunge. Videre undersøkelser bekrefter amøbeabscess i lunge med nylig reise til endemisk område.",A065,NO
+43,"Pasient med hodepine, forvirring og fokale nevrologiske utfall. MR viser cerebral abscess. Mikroskopi bekrefter amøbeabscess i hjerne. Akutt behandling igangsatt.",A066,NO
+44,"Person med multiple hudlesjoner som ikke responderer på standard antibiotika. Biopsier bekrefter kutane manifestasjoner av amøbeinfeksjon. Systemisk behandling nødvendig.",A067,NO
+45,"Pasient med uvanlig infeksjon i øyet. Mikroskopi bekrefter tilstedeværelse av amøber på uventet lokalisasjon. Spesialistbehandling iverksatt.",A068,NO
+46,"Mann med intermitterende magesmerter og uvanlige avføringsmønstre. Klinisk mistenkt amøbeinfeksjon, men spesifikk type ikke identifisert. Empirisk behandling startet.",A069,NO
+47,"Barn med alvorlig diaré og dehydrering. Mikroskopisk undersøkelse bekrefter tilstedeværelse av Balantidium coli. Behandling med tetracyklin påbegynt.",A070,NO
+48,"Pasient med langvarig diaré, magekramper og vekttap. Parasittologisk undersøkelse påviser Giardia lamblia-cyster i avføring. Behandles med metronidazol.",A071,NO
+49,"Immunsupprimert pasient med vedvarende vandig diaré. Spesialfarging av avføringsprøve bekrefter cryptosporidiose. Symptomatisk behandling og immunglobulin vurderes.",A072,NO
+50,"Person med kronisk diaré og malabsorpsjon. Tarmbiopsier positive for Isospora belli. Behandling med trimetoprim-sulfametoksazol igangsatt.",A073,NO
+51,"Pasient med langvarig gastrointestinale symptomer. Påvist sjelden intestinal protozoa. Spesifikk antiparasittisk behandling startet.",A078,NO
+52,"Mann med diaré og abdominale smerter. Parasittologisk undersøkelse tyder på protozoinfeksjon, men spesifikk organisme ikke identifisert.",A079,NO
+53,"Småbarn med akutt oppkast, vandig diaré og feber. Virologisk testing bekrefter rotavirus. Fokus på væske- og elektrolyttbalanse.",A080,NO
+54,"Utbrudd av akutt gastroenteritt på eldresenter. Prøver bekrefter norovirus. Isolasjonstiltak og symptomatisk behandling implementert.",A081,NO
+55,"Barn med feber, oppkast og diaré. Laboratorieprøver positive for adenovirus i avføring. Understøttende behandling med væsketerapi.",A082,NO
+56,"Pasient med akutt gastroenteritt etter kontakt med syk familiemedlem. Prøver bekrefter virusinfeksjon, men av annen type enn vanlige tarmvirus.",A083,NO
+57,"Person med akutt innsettende kvalme, oppkast og diaré. Klinisk bilde foreslår viral gastroenteritt, men spesifikk virustype ikke identifisert.",A084,NO
+58,"Pasient med uvanlig presentasjon av gastrointestinal infeksjon. Spesialundersøkelser bekrefter sjelden patogen. Individualisert behandlingsplan utarbeidet.",A085,NO
+59,"Mann med moderat til alvorlig diaré og dehydrering. Kliniske og laboratorieundersøkelser bekrefter infeksiøs gastroenteritt, men spesifikk årsak ikke identifisert.",A090,NO
+60,"Pasient med akutt diaré uten feber. Ingen patogener påvist i avføringsprøver. Sannsynlig ikke-infeksiøs gastroenteritt. Væskebehandling anbefalt.",A099,NO
+61,"Ung voksen med hoste, feber og nattesvette i flere uker. Røntgen thorax viser infiltrater i øvre lungelapper. Sputumprøver bekrefter lungetuberkulose ved direkte mikroskopi.",A150,NO
+62,"Pasient med langvarig hoste, vekttap og feber. Negative mikroskopifunn, men dyrkning av sputum positiv for Mycobacterium tuberculosis. Antituberkuløs behandling påbegynt.",A151,NO
+63,"Mann med respiratoriske symptomer og suspekte lungeforandringer på røntgen. Histologisk undersøkelse av lungebiopsi bekrefter tuberkulose. Behandlingsregime startet.",A152,NO
+64,"Person med kliniske tegn på lungetuberkulose. Bekreftet diagnose, men metode for bekreftelse ikke spesifisert i journalen. Standard DOTS-regime implementert.",A153,NO
+65,"Kvinne med forstørrede lymfeknuter i mediastinum. Biopsi bekrefter tuberkuløs lymfadenitt. Kombinasjonsbehandling med fire antituberkuløse midler startet.",A154,NO
+66,"Pasient med heshet og sår hals. Laryngoskopi og biopsi bekrefter tuberkulose i strupehode. Isolasjon og behandling igangsatt.",A155,NO
+67,"Mann med brystsmerter, tungpust og pleuravæske. Pleuratapping og histologisk undersøkelse bekrefter tuberkuløs pleuritt. Drenasje og medikamentell behandling startet.",A156,NO
+68,"Barn med feber av ukjent årsak og forstørret lymfeknute i halsregionen. Undersøkelser bekrefter primær tuberkulose i åndedrettsorganene. Kontaktsporing igangsatt.",A157,NO
+69,"Pasient med tuberkuløse forandringer i sjeldent affisert respirasjonsorgan. Bakteriologisk og histologisk bekreftelse foreligger. Spesialtilpasset behandling startet.",A158,NO
+70,"Person med uspesifiserte respirasjonssymptomer. Undersøkelser bekrefter tuberkulose i luftveiene, men eksakt lokalisasjon ikke angitt.",A159,NO
+71,"Kvinne med langvarig hoste, nattesvette og vekttap. Røntgen thorax viser forandringer, men bakteriologiske og histologiske undersøkelser er negative for tuberkulose.",A160,NO
+72,"Mann med symptomer på lungetuberkulose. Diagnosen basert på klinisk presentasjon og radiologiske funn, bakteriologiske undersøkelser ikke utført.",A161,NO
+73,"Pasient med kliniske og radiologiske tegn på lungetuberkulose, men journalen nevner ikke bakteriologisk eller histologisk bekreftelse. Behandling startet på empirisk grunnlag.",A162,NO
+74,"Person med forstørrede lymfeknuter i brysthulen. Klinisk mistenkt tuberkuløs lymfadenitt, men uten spesifikk bekreftelse. Behandling startet basert på klinisk vurdering.",A163,NO
+75,"Pasient med heshet og struperespiratoriske symptomer. Mistenkt tuberkulose i larynks, men diagnostiske prøver ikke nevnt. Empirisk antituberkuløs behandling igangsatt.",A164,NO
+76,"Mann med pleuravæske og typiske symptomer på tuberkuløs pleuritt. Behandling startet uten dokumentasjon av bakteriologisk eller histologisk bekreftelse.",A165,NO
+77,"Barn med nylig kontakt med tuberkulosepasient, nå med symptomer på primær lungetuberkulose. Behandlet uten dokumentasjon av spesifikk bekreftelse.",A167,NO
+78,"Pasient med tegn på tuberkulose i sjelden affisert respirasjonsorgan. Diagnose og behandling basert på kliniske funn uten spesifikk mikrobiologisk bekreftelse.",A168,NO
+79,"Person med uspesifiserte respirasjonssymptomer, behandlet for antatt tuberkulose uten angitt lokalisasjon eller laboratoriebekreftelse.",A169,NO
+80,"Pasient innlagt med hodepine, nakkestivhet og feber. Lumbalpunksjon bekrefter tuberkuløs meningitt. Umiddelbar behandling med antituberkuløse medikamenter og steroider.",A170,NO
+81,"MR hjerne viser karakteristisk lesjon. Biopsi bekrefter meningealt tuberkulom. Nevrokirurgisk intervensjon vurderes i tillegg til medikamentell behandling.",A171,NO
+82,"Kvinne med nevrologiske utfall og tegn på tuberkuløs infeksjon i sentralnervesystemet. CT viser multiple lesjoner. Antituberkuløs behandling og nevrologisk oppfølging iverksatt.",A178,NO
+83,"Mann med kognitiv svikt og nevrologiske symptomer. Undersøkelser tyder på tuberkulose i nervesystemet, men spesifikk lokalisasjon ikke angitt. Behandling startet.",A179,NO
+84,"Ungdom med haltende gange og ryggsmerter. MR viser destruksjon av virvellegeme. Biopsi bekrefter tuberkulose i ben. Ortopedisk og medikamentell behandling planlagt.",A180,NO
+85,"Kvinne med dysuri, hematuri og flankesmerter. Urindyrkning og vevsprøver bekrefter tuberkulose i urinveiene. Langvarig antituberkuløs behandling startet.",A181,NO
+86,"Barn med vedvarende hevelse i halsregion. Finnålsaspirasjon bekrefter tuberkuløs lymfadenitt. Behandling og oppfølging av primærfokus igangsatt.",A182,NO
+87,"Pasient med ascites og abdominale smerter. Laparoskopi og biopsier bekrefter tuberkuløs peritonitt. Kombinasjonsbehandling startet.",A183,NO
+88,"Person med kroniske, ikke-helende hudsår. Biopsi bekrefter kutan tuberkulose. Systemisk behandling og lokale sårtiltak implementert.",A184,NO
+89,"Pasient med gradvis synstap. Oftalmologisk undersøkelse og prøver bekrefter tuberkuløs uveitt. Spesialisert behandlingsregime iverksatt.",A185,NO
+90,"Mann med kronisk øresekresjon og hørselstap. Mikrobiologiske undersøkelser bekrefter tuberkulose i øre. Lokal og systemisk behandling startet.",A186,NO
+91,"Pasient med Addisons sykdom. Videre undersøkelser avdekker tuberkulose i binyrer som underliggende årsak. Hormonerstatning og antituberkuløs behandling igangsatt.",A187,NO
+92,"Kvinne med nyresvikt og systemiske symptomer. Nyrebiopsi bekrefter nyretuberkulose. Behandling tilpasset redusert nyrefunksjon startet.",A188,NO
+93,"Pasient med høy feber, uttalt sykdomsfølelse og multiple organmanifestationer. Diagnostisert med akutt miliærtuberkulose med primærfokus i lunge. Intensiv behandling startet.",A190,NO
+94,"Mann med akutt febril tilstand og påviste tuberkuløse forandringer i flere organsystemer. Diagnostisert med akutt disseminert tuberkulose. Innlagt for intravenøs behandling.",A191,NO
+95,"Person med høy feber og multiple små, jevnt fordelte infiltrater på lungerøntgen. Klinisk diagnostisert som akutt miliærtuberkulose uten spesifisert fokus. Behandling startet.",A192,NO
+96,"Eldre pasient med langsomt progredierende systemisk tuberkulose med multiple organmanifestationer. Mindre akutt presentasjon enn klassisk miliærtuberkulose. Individualisert behandlingsregime.",A198,NO
+97,"Pasient med generaliserte symptomer og radiologiske funn forenlig med miliærtuberkulose, men uspesifisert presentasjon. Empirisk behandling igangsatt.",A199,NO
+98,"Person med akutt hovne lymfeknuter i lyske. Kliniske og mikrobiologiske funn bekrefter bubonpest. Isolasjon og umiddelbar antibiotikabehandling iverksatt.",A200,NO
+99,"Pasient med smertefulle hudsår og generalisert sykdomsfølelse. Mikrobiologiske prøver bekrefter hudpest. Strenge smittevernstiltak implementert.",A201,NO
+100,"Akutt innlagt med alvorlig pneumoni og rask forverring. Laboratorieprøver bekrefter lungepest. Intensivbehandling og isolasjon umiddelbart iverksatt.",A202,NO

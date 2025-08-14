@@ -1,0 +1,101 @@
+patient_id,soap,expected_codes
+1,"Patient admitted with severe diarrhea, vomiting, and dehydration. Recently returned from travel to Southeast Asia. Laboratory tests confirm Vibrio cholerae 01, biovar cholerae. Fluid and electrolyte replacement therapy initiated.",A000
+2,"Male, 45 years old, with acute watery diarrhea and severe dehydration. Laboratory findings confirm the presence of Vibrio cholerae 01, biovar eltor. Patient recently returned from an area with known cholera outbreak.",A001
+3,"Female with severe diarrhea and vomiting. Clinical findings suggest cholera, but specific strain not identified. Symptomatic treatment initiated while awaiting final laboratory results.",A009
+4,"Male, 32 years old, with high fever, abdominal pain, and enlarged spleen. Blood tests positive for Salmonella typhi. Patient recently visited Pakistan. Antibiotic treatment initiated.",A010
+5,"Female with fever, headache, and abdominal pain for three days. Blood culture positive for paratyphoid fever A. Patient recently returned from India. Ciprofloxacin prescribed.",A011
+6,"Boy, 12 years old, with fever, abdominal pain, and diarrhea. Laboratory tests confirm paratyphoid fever B. History includes recent travel to endemic area. Intravenous antibiotics started.",A012
+7,Elderly female with high fever and abdominal symptoms. Microbiological samples confirm paratyphoid fever C. Admitted for fluid therapy and antibiotics.,A013
+8,"Male with fever and abdominal pain. Clinically suspected paratyphoid, but specific type not identified. Treatment initiated based on clinical findings.",A014
+9,"Female, 28 years old, with acute gastroenteritis. Stool sample shows Salmonella enterica. Moderate symptoms with diarrhea and abdominal pain. Treated as outpatient with rehydration.",A020
+10,"Male with high fever, chills, and general malaise. Blood culture positive for Salmonella with systemic infection. Admitted for intravenous antibiotic treatment.",A021
+11,Elderly patient with localized pain in right hip. X-ray and aspiration sample confirm Salmonella infection in the joint. Surgical drainage planned.,A022
+12,"Patient with fever and abdominal pain. Tests confirm salmonella infection, but of a type other than common gastrointestinal variants. Investigating for underlying immunodeficiency.",A028
+13,"Young male with diarrhea and abdominal pain. Clinical picture suggests salmonella infection, but specific species not identified. Treated symptomatically while awaiting test results.",A029
+14,"Child, 7 years old, with bloody diarrhea and severe abdominal pain. Stool samples confirm Shigella dysenteriae. Admitted for fluid therapy and monitoring.",A030
+15,"Female with acute diarrhea, fever, and abdominal pain. Laboratory tests positive for Shigella flexneri. Antibiotic treatment initiated after resistance determination.",A031
+16,"Male, 52 years old, with abdominal pain and bloody stools. Microbiological examination shows Shigella boydii. Travel history to South Asia. Started treatment with trimethoprim-sulfamethoxazole.",A032
+17,Patient with moderate diarrhea and cramping abdominal pain. Stool sample positive for Shigella sonnei. Symptomatic treatment and hydration recommended.,A033
+18,"Female with diarrhea, fever, and abdominal cramps. Tests confirm shigellosis of a less common type. Supportive care and antibiotics prescribed.",A038
+19,"Young adult with acute diarrhea. Clinical symptoms suggest shigellosis, but specific bacterial type not identified. Fluid therapy and observation.",A039
+20,Toddler with watery diarrhea and vomiting for two days. Stool sample confirms enteropathogenic E. coli. Focus on fluid balance and electrolyte correction.,A040
+21,Tourist with acute traveler's diarrhea. Tests positive for enterotoxigenic E. coli. Moderately dehydrated upon examination. Oral rehydration and loperamide recommended.,A041
+22,Patient with fever and bloody diarrhea. Microbiological examination detects enteroinvasive E. coli. Admitted for fluid therapy and antibiotics.,A042
+23,"Child, 5 years old, with severe bloody diarrhea and abdominal pain. Stool sample confirms enterohemorrhagic E. coli (EHEC). Close monitoring of renal function initiated.",A043
+24,Patient with prolonged diarrhea and abdominal pain. Identified unusual E. coli strain as cause. Treatment adjusted to resistance pattern.,A044
+25,"Male with acute stomach illness after barbecue meal. Microbiology confirms Campylobacter enteritis. Symptoms include diarrhea, fever, and abdominal pain.",A045
+26,"Female, 34 years old, with abdominal pain, nausea, and diarrhea for five days. Stool sample shows Yersinia enterocolitica. Treated with ciprofloxacin.",A046
+27,Elderly patient recently discharged from hospital with antibiotic-associated diarrhea. Tests positive for Clostridium difficile. Treatment with vancomycin started.,A047
+28,Patient with severe intestinal infection after foreign travel. Identified rare bacterial pathogen. Specialized antibiotic regimen implemented.,A048
+29,"Person with diarrhea and abdominal pain. Clinical picture suggests bacterial infection, but specific agent not identified. Symptomatic treatment.",A049
+30,"Family with food poisoning symptoms after restaurant visit. Tests show staphylococcal toxins. Symptoms include nausea, vomiting, and abdominal pain.",A050
+31,"Patient with acute neurological failure, blurred vision, and swallowing problems. Suspected botulism based on clinical findings and food history. Transferred to intensive care.",A051
+32,Group of patients with acute gastrointestinal symptoms after festive meal. Food samples positive for Clostridium perfringens. Symptomatic treatment.,A052
+33,Person with severe stomach illness after seafood meal. Diagnosed with food poisoning caused by Vibrio parahaemolyticus. Rehydration and monitoring.,A053
+34,"Patient with nausea, vomiting, and diarrhea few hours after eating rice dish. Tests show Bacillus cereus toxins. Short course with good prognosis.",A054
+35,Family with acute vomiting and abdominal pain after meal. Laboratory tests confirm unusual bacterial food poisoning. Symptomatic treatment.,A058
+36,"Patient with sudden onset of vomiting and diarrhea. Clinical picture suggests bacterial food poisoning, but specific cause not identified.",A059
+37,"Male with bloody diarrhea, fever, and abdominal pain for over a week. Microscopy and culture confirm acute amoebic dysentery. Treatment with metronidazole started.",A060
+38,Patient with intermittent abdominal pain and loose stools over several months. Parasitological examination shows chronic amoebic infection in intestinal tract. Long-term treatment plan developed.,A061
+39,Female with mild to moderate colon infection. Tests confirm amoebic colitis without dysentery. Treatment with paromomycin initiated.,A062
+40,CT abdomen shows characteristic lesion in intestinal wall. Biopsy confirms amoeboma in intestinal tract. Planning combination treatment with medication and surgery.,A063
+41,"Patient with high fever, right upper quadrant pain, and elevated liver enzymes. Ultrasound shows abscess in liver. Aspiration sample confirms amoebic abscess.",A064
+42,"Male with fever, chest pain, and cough. CT thorax shows abscess in right lung. Further investigations confirm amoebic abscess in lung with recent travel to endemic area.",A065
+43,"Patient with headache, confusion, and focal neurological deficits. MRI shows cerebral abscess. Microscopy confirms amoebic abscess in brain. Acute treatment initiated.",A066
+44,Person with multiple skin lesions unresponsive to standard antibiotics. Biopsies confirm cutaneous manifestations of amoebic infection. Systemic treatment necessary.,A067
+45,Patient with unusual infection in the eye. Microscopy confirms presence of amoebae at unexpected location. Specialist treatment initiated.,A068
+46,"Male with intermittent abdominal pain and unusual bowel patterns. Clinically suspected amoebic infection, but specific type not identified. Empirical treatment started.",A069
+47,Child with severe diarrhea and dehydration. Microscopic examination confirms presence of Balantidium coli. Treatment with tetracycline initiated.,A070
+48,"Patient with prolonged diarrhea, abdominal cramps, and weight loss. Parasitological examination detects Giardia lamblia cysts in stool. Treated with metronidazole.",A071
+49,Immunosuppressed patient with persistent watery diarrhea. Special staining of stool sample confirms cryptosporidiosis. Symptomatic treatment and immunoglobulin considered.,A072
+50,Person with chronic diarrhea and malabsorption. Intestinal biopsies positive for Isospora belli. Treatment with trimethoprim-sulfamethoxazole initiated.,A073
+51,Patient with long-term gastrointestinal symptoms. Detected rare intestinal protozoa. Specific antiparasitic treatment started.,A078
+52,"Male with diarrhea and abdominal pain. Parasitological examination suggests protozoan infection, but specific organism not identified.",A079
+53,"Toddler with acute vomiting, watery diarrhea, and fever. Virological testing confirms rotavirus. Focus on fluid and electrolyte balance.",A080
+54,Outbreak of acute gastroenteritis at elderly care center. Samples confirm norovirus. Isolation measures and symptomatic treatment implemented.,A081
+55,"Child with fever, vomiting, and diarrhea. Laboratory tests positive for adenovirus in stool. Supportive treatment with fluid therapy.",A082
+56,"Patient with acute gastroenteritis after contact with sick family member. Tests confirm viral infection, but of type other than common intestinal viruses.",A083
+57,"Person with acute onset of nausea, vomiting, and diarrhea. Clinical picture suggests viral gastroenteritis, but specific virus type not identified.",A084
+58,Patient with unusual presentation of gastrointestinal infection. Special investigations confirm rare pathogen. Individualized treatment plan developed.,A085
+59,"Male with moderate to severe diarrhea and dehydration. Clinical and laboratory examinations confirm infectious gastroenteritis, but specific cause not identified.",A090
+60,Patient with acute diarrhea without fever. No pathogens detected in stool samples. Likely non-infectious gastroenteritis. Fluid therapy recommended.,A099
+61,"Young adult with cough, fever, and night sweats for several weeks. Chest X-ray shows infiltrates in upper lung lobes. Sputum samples confirm pulmonary tuberculosis by direct microscopy.",A150
+62,"Patient with prolonged cough, weight loss, and fever. Negative microscopy findings, but sputum culture positive for Mycobacterium tuberculosis. Antituberculous treatment initiated.",A151
+63,Male with respiratory symptoms and suspicious lung changes on X-ray. Histological examination of lung biopsy confirms tuberculosis. Treatment regimen started.,A152
+64,"Person with clinical signs of pulmonary tuberculosis. Confirmed diagnosis, but method of confirmation not specified in record. Standard DOTS regimen implemented.",A153
+65,Female with enlarged lymph nodes in mediastinum. Biopsy confirms tuberculous lymphadenitis. Combination treatment with four antituberculous agents started.,A154
+66,Patient with hoarseness and sore throat. Laryngoscopy and biopsy confirm tuberculosis in larynx. Isolation and treatment initiated.,A155
+67,"Male with chest pain, shortness of breath, and pleural effusion. Pleural tap and histological examination confirm tuberculous pleuritis. Drainage and medicinal treatment started.",A156
+68,Child with fever of unknown origin and enlarged lymph node in neck region. Investigations confirm primary tuberculosis in respiratory organs. Contact tracing initiated.,A157
+69,Patient with tuberculous changes in rarely affected respiratory organ. Bacteriological and histological confirmation available. Specialized treatment started.,A158
+70,"Person with unspecified respiratory symptoms. Investigations confirm tuberculosis in airways, but exact location not indicated.",A159
+71,"Female with prolonged cough, night sweats, and weight loss. Chest X-ray shows changes, but bacteriological and histological examinations are negative for tuberculosis.",A160
+72,"Male with symptoms of pulmonary tuberculosis. Diagnosis based on clinical presentation and radiological findings, bacteriological examinations not performed.",A161
+73,"Patient with clinical and radiological signs of pulmonary tuberculosis, but record does not mention bacteriological or histological confirmation. Treatment started on empirical basis.",A162
+74,"Person with enlarged lymph nodes in thoracic cavity. Clinically suspected tuberculous lymphadenitis, but without specific confirmation. Treatment started based on clinical assessment.",A163
+75,"Patient with hoarseness and laryngeal respiratory symptoms. Suspected tuberculosis in larynx, but diagnostic tests not mentioned. Empirical antituberculous treatment initiated.",A164
+76,Male with pleural effusion and typical symptoms of tuberculous pleuritis. Treatment started without documentation of bacteriological or histological confirmation.,A165
+77,"Child with recent contact with tuberculosis patient, now with symptoms of primary pulmonary tuberculosis. Treated without documentation of specific confirmation.",A167
+78,Patient with signs of tuberculosis in rarely affected respiratory organ. Diagnosis and treatment based on clinical findings without specific microbiological confirmation.,A168
+79,"Person with unspecified respiratory symptoms, treated for presumed tuberculosis without stated location or laboratory confirmation.",A169
+80,"Patient admitted with headache, neck stiffness, and fever. Lumbar puncture confirms tuberculous meningitis. Immediate treatment with antituberculous drugs and steroids.",A170
+81,MRI brain shows characteristic lesion. Biopsy confirms meningeal tuberculoma. Neurosurgical intervention considered in addition to medicinal treatment.,A171
+82,Female with neurological deficits and signs of tuberculous infection in central nervous system. CT shows multiple lesions. Antituberculous treatment and neurological follow-up initiated.,A178
+83,"Male with cognitive decline and neurological symptoms. Investigations suggest tuberculosis in nervous system, but specific location not indicated. Treatment started.",A179
+84,Adolescent with limping gait and back pain. MRI shows destruction of vertebral body. Biopsy confirms tuberculosis in bone. Orthopedic and medicinal treatment planned.,A180
+85,"Female with dysuria, hematuria, and flank pain. Urine culture and tissue samples confirm tuberculosis in urinary tract. Long-term antituberculous treatment started.",A181
+86,Child with persistent swelling in neck region. Fine needle aspiration confirms tuberculous lymphadenitis. Treatment and follow-up of primary focus initiated.,A182
+87,Patient with ascites and abdominal pain. Laparoscopy and biopsies confirm tuberculous peritonitis. Combination treatment started.,A183
+88,"Person with chronic, non-healing skin ulcers. Biopsy confirms cutaneous tuberculosis. Systemic treatment and local wound measures implemented.",A184
+89,Patient with gradual vision loss. Ophthalmological examination and tests confirm tuberculous uveitis. Specialized treatment regimen initiated.,A185
+90,Male with chronic ear discharge and hearing loss. Microbiological investigations confirm tuberculosis in ear. Local and systemic treatment started.,A186
+91,Patient with Addison's disease. Further investigations reveal tuberculosis in adrenal glands as underlying cause. Hormone replacement and antituberculous treatment initiated.,A187
+92,Female with renal failure and systemic symptoms. Kidney biopsy confirms renal tuberculosis. Treatment adapted to reduced renal function started.,A188
+93,"Patient with high fever, marked malaise, and multiple organ manifestations. Diagnosed with acute miliary tuberculosis with primary focus in lung. Intensive treatment started.",A190
+94,Male with acute febrile condition and detected tuberculous changes in several organ systems. Diagnosed with acute disseminated tuberculosis. Admitted for intravenous treatment.,A191
+95,"Person with high fever and multiple small, evenly distributed infiltrates on chest X-ray. Clinically diagnosed as acute miliary tuberculosis without specified focus. Treatment started.",A192
+96,Elderly patient with slowly progressing systemic tuberculosis with multiple organ manifestations. Less acute presentation than classic miliary tuberculosis. Individualized treatment regimen.,A198
+97,"Patient with generalized symptoms and radiological findings consistent with miliary tuberculosis, but unspecified presentation. Empirical treatment initiated.",A199
+98,Person with acute swollen lymph nodes in groin. Clinical and microbiological findings confirm bubonic plague. Isolation and immediate antibiotic treatment implemented.,A200
+99,Patient with painful skin ulcers and generalized malaise. Microbiological samples confirm cutaneous plague. Strict infection control measures implemented.,A201
+100,Acutely admitted with severe pneumonia and rapid deterioration. Laboratory tests confirm pneumonic plague. Intensive treatment and isolation immediately implemented.,A202

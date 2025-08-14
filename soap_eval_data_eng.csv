@@ -1,0 +1,41 @@
+patient_id,soap,expected_codes,lang
+1,"Cholera caused by Vibrio cholerae 01, biovar cholerae",A000,ENG
+2,Typhoid fever diagnosed recently,A010,ENG
+3,Salmonella enteritis with mild diarrhea,A020,ENG
+4,Botulism suspected after canned food ingestion,A051,ENG
+5,Acute amebic dysentery presenting with bloody stools,A060,ENG
+6,Rotavirus enteritis in a child,A080,ENG
+7,Acute gastroenteritis caused by norovirus,A081,ENG
+8,Miliary tuberculosis confirmed by sputum microscopy,A190,ENG
+9,Skin infection due to amebiasis,A067,ENG
+10,Shigellosis caused by Shigella dysenteriae,A030,ENG
+11,"Kolera som skyldes Vibrio cholerae 01, biovar cholerae",A000,NO
+12,Tyfoidfeber diagnostisert nylig,A010,NO
+13,Salmonellaenteritt med magesmerter,A020,NO
+14,Botulisme etter inntak av hermetikk,A051,NO
+15,Akutt amøbedysenteri med blodig diaré,A060,NO
+16,Rotavirusenteritt hos barn,A080,NO
+17,Akutt gastroenteritt som skyldes norovirus,A081,NO
+18,Miliærtuberkulose bekreftet ved mikroskopi av sputum,A190,NO
+19,Amøbeinfeksjon i hud,A067,NO
+20,Shigellose som skyldes Shigella dysenteriae,A030,NO
+21,Patient shows chronic amebic infection in the intestinal tract with intermittent symptoms,A061,ENG
+22,Chronic tuberculous infection involving strupehode and glottis confirmed bacteriologically,A155,ENG
+23,"Enteritis caused by Yersinia enterocolitica, moderate severity",A046,ENG
+24,Suspected leptospirosis with jaundice and hemorrhagic symptoms,A270,ENG
+25,Gastrointestinal tularemia with fever and abdominal pain,A213,ENG
+26,Generalized tularemia showing systemic symptoms,A217,ENG
+27,Tuberculous meningitis with confirmed diagnosis,A170,ENG
+28,Suspected pulmonary tuberculosis with negative bacteriology,A160,ENG
+29,Sepsis caused by Erysipelothrix,A267,ENG
+30,Acute miliary tuberculosis with multiple organ involvement,A191,ENG
+31,Pasienten har kronisk amøbeinfeksjon i tarmkanalen med intermittente symptomer,A061,NO
+32,"Kronisk tuberkulose i strupehode og glottis, bekreftet bakteriologisk",A155,NO
+33,"Enteritt forårsaket av Yersinia enterocolitica, moderat alvorlighetsgrad",A046,NO
+34,Mistenkt leptospirose med gulsott og blødningssymptomer,A270,NO
+35,Gastrointestinal tularemi med feber og magesmerter,A213,NO
+36,Generalisert tularemi med systemiske symptomer,A217,NO
+37,Tuberkuløs meningitt med bekreftet diagnose,A170,NO
+38,Mistenkt lunge tuberkulose med negativ bakteriologisk undersøkelse,A160,NO
+39,Sepsis forårsaket av Erysipelothrix,A267,NO
+40,Akutt miliær tuberkulose med flere organsystem involvert,A191,NO
