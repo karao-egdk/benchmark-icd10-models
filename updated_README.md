@@ -2,7 +2,7 @@
 
 ## Input Files and Models Used
 
-- **Diagnosis Codes File:** `icd10_norway.xlsx`
+- **Diagnosis Codes File:** `icd10_english.xlsx`
 - **Evaluation Data Files:**
   - Before Refactoring: `before_gemini_refactor.csv`
   - After Refactoring: `gemini_refactor_soap.csv`
